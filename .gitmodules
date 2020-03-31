@@ -1,0 +1,3 @@
+[submodule "yandex_mapkit"]
+	path = yandex_mapkit
+	url = git@github.com:sysint64/yandex_mapkit.git

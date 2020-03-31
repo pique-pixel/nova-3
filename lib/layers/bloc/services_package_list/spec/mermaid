@@ -1,0 +1,11 @@
+stateDiagram
+    [*] --> InitialServicesPackageListState
+    InitialServicesPackageListState --> LoadingListState : OnLoad
+    LoadingListState --> LoadingListErrorState
+    LoadingListState --> LoadedState
+    LoadingPageState --> LoadedState
+    LoadingListErrorState --> RefreshingListState
+    RefreshingListState --> LoadedState
+    LoadedState --> LoadingPageState : OnNextPage
+    LoadedState --> RefreshingListState : OnRefresh
+    LoadedState --> [*]

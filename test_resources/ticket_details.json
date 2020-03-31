@@ -1,0 +1,261 @@
+{
+  "id": "5df9fb46779af50001d26094",
+  "name": {
+    "inOtherLang": [
+      {
+        "value": "Ice Skating at the Mega Ice",
+        "language": "en"
+      },
+      {
+        "value": "Patinaje sobre hielo en el Mega Ice",
+        "language": "es"
+      }
+    ],
+    "value": "Каток Mega Ice"
+  },
+  "fullName": {
+    "inOtherLang": [
+      {
+        "value": "Ice Skating at the Mega Ice",
+        "language": "en"
+      },
+      {
+        "value": "Patinaje sobre hielo en el Mega Ice",
+        "language": "es"
+      }
+    ],
+    "value": "Каток Mega Ice"
+  },
+  "type": "ACTION",
+  "place": {
+    "id": "5df9f6e4779af50001d26093",
+    "name": {
+      "inOtherLang": [
+        {
+          "value": "Ice Skating at the Mega Ice ",
+          "language": "en"
+        },
+        {
+          "value": "Patinaje sobre hielo en el Mega Ice",
+          "language": "es"
+        }
+      ],
+      "value": "Каток Mega Ice"
+    },
+    "fullName": {
+      "inOtherLang": [
+        {
+          "value": "Ice Skating at the Mega Ice ",
+          "language": "en"
+        },
+        {
+          "value": "Patinaje sobre hielo en el Mega Ice",
+          "language": "es"
+        }
+      ],
+      "value": "Каток Mega Ice"
+    },
+    "phones": [
+      ""
+    ],
+    "url": "http://mega-ice.ru/",
+    "location": {
+      "x": 55.790231,
+      "y": 37.53128,
+      "coordinates": [
+        55.790231,
+        37.53128
+      ],
+      "type": "Point"
+    },
+    "type": {
+      "id": "5de63604f4b2ad00015d0777",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "Parking",
+            "language": "en"
+          }
+        ],
+        "value": "Парковка"
+      },
+      "desc": null
+    },
+    "forSedentary": false,
+    "forVisually": false,
+    "forHearing": false,
+    "forMental": false,
+    "status": "WORKING",
+    "address": {
+      "inOtherLang": [
+        {
+          "value": "4 Hodynsky Boul.",
+          "language": "en"
+        },
+        {
+          "value": "4 Hodynsky Boul.",
+          "language": "es"
+        }
+      ],
+      "value": "Ходынский б-р, 4"
+    },
+    "photos": [
+      {
+        "url": "content/4672835660.jpg",
+        "description": null
+      },
+      {
+        "url": "content/485436223.JPG",
+        "description": null
+      },
+      {
+        "url": "content/385331554.jpg",
+        "description": null
+      }
+    ],
+    "headerPhoto": {
+      "url": "content/75594233670.jpg",
+      "description": null
+    },
+    "description": {
+      "inOtherLang": [],
+      "value": ""
+    }
+  },
+  "durationMin": 90,
+  "child": null,
+  "schedules": [
+    {
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "Working hours",
+            "language": "en"
+          },
+          {
+            "value": "Horas Laborales",
+            "language": "es"
+          }
+        ],
+        "value": "Режим работы "
+      },
+      "fromDate": [
+        2019,
+        12,
+        18
+      ],
+      "toDate": [
+        2020,
+        12,
+        31
+      ],
+      "details": [
+        {
+          "fromTime": [
+            10,
+            0
+          ],
+          "toTime": [
+            23,
+            0
+          ],
+          "dayOfWeeks": [
+            "MONDAY",
+            "FRIDAY",
+            "TUESDAY",
+            "SUNDAY",
+            "WEDNESDAY",
+            "THURSDAY",
+            "SATURDAY"
+          ]
+        }
+      ],
+      "excludes": [],
+      "additionalInfos": [
+        {
+          "name": {
+            "inOtherLang": [
+              {
+                "value": "Free buses run from Dynamo and Polezhaevskaya metro stations to Mega Ice. Landmark - yellow sign for boarding the bus to the AVIAPARK shopping center. Interval: 10 - 15 minutes",
+                "language": "en"
+              },
+              {
+                "value": "Los autobuses gratuitos salen de las estaciones de metro Dynamo y Polezhaevskaya a Mega Ice. Punto de referencia: cartel amarillo para abordar el autobús al centro comercial AVIAPARK. Intervalo: 10-15 minutos",
+                "language": "es"
+              }
+            ],
+            "value": "От станций метро «Динамо» и «Полежаевская» до Mega Ice курсируют бесплатные автобусы. Ориентир – жёлтый указатель посадки на автобус до ТЦ АВИАПАРК. Интервал: 10 - 15 минут"
+          }
+        }
+      ]
+    }
+  ],
+  "prices": [],
+  "tags": [
+    {
+      "id": "5de63604f4b2ad00015d077a",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "must visit",
+            "language": "en"
+          },
+          {
+            "value": "must visit",
+            "language": "es"
+          }
+        ],
+        "value": "рекомендуем"
+      }
+    },
+    {
+      "id": "5de63604f4b2ad00015d077b",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "entertainment",
+            "language": "en"
+          },
+          {
+            "value": "entertainment",
+            "language": "es"
+          }
+        ],
+        "value": "развлечения"
+      }
+    },
+    {
+      "id": "5de63604f4b2ad00015d077d",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "for kids",
+            "language": "en"
+          },
+          {
+            "value": "for kids",
+            "language": "es"
+          }
+        ],
+        "value": "для детей"
+      }
+    }
+  ],
+  "priority": 0,
+  "countOfSell": 0,
+  "comments": [],
+  "published": true,
+  "description": {
+    "inOtherLang": [
+      {
+        "value": "Ice skating is one of the oldest amusements in the world, which in Russia ranks second most popular after football. Largely for this reason, the Mega Ice skating rink at the Aviapark shopping center is one of the most visited places of active recreation among residents of Moscow and guests of the capital.\n\nEntrance to the skating rink and rental of skates is free with the Moscow CityPass card. Ice cleaning takes place during the day from 14:30 to 15:00 and in the evening from 18:30 to 19:00.",
+        "language": "en"
+      },
+      {
+        "value": "El patinaje sobre hielo es una de las diversiones más antiguas del mundo, que en Rusia ocupa el segundo lugar más popular después del fútbol. Mega Ice en el centro comercial Aviapark es uno de los lugares de recreación activa más visitados entre los residentes de Moscú y los invitados de la capital.\nLa entrada a la pista de patinaje y el alquiler de patines es gratuita con la tarjeta CityPass de Moscú. La limpieza con hielo se realiza durante el día de 14:30 a 15:00 y de 18:30 a 19:00.\n",
+        "language": "es"
+      }
+    ],
+    "value": "Катание на коньках – одна из старейших в мире забав, которая в России занимает по популярности второе место после футбола. Хоккей, фигурное катание – национальные виды спорта. Во многом по этой причине ледовый каток Mega Ice в АВИАПАРКе является одним из самых посещаемых мест активного отдыха у жителей Москвы и гостей столицы.\n\nОбратите внимание!\n\nПо карте Moscow CityPass вход на каток и прокат коньков – бесплатно. Чистка льда днём проходит с 14:30 до 15:00 и вечером – с 18:30 до 19:00.\n"
+  }
+}

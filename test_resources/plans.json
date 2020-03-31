@@ -1,0 +1,77 @@
+[
+  {
+    "id": "5e5e246949ce3200012f8c48",
+    "name": "Театры",
+    "images": [
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/41f4bb04-0f02-4f61-9f91-30518b4c17de",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/ab20266b-fa0a-48f8-b217-561791de6435",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/05df9f56-b290-4d94-9dbf-1e296e61fbda",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/031ccaf0-1c36-4013-ae8b-b244fad8c9e9",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/fb2c3c1c-fde5-45c6-8c23-5990ad10289f",
+        "description": null
+      }
+    ],
+    "contentCount": 5,
+    "startDate": "25.03.2020",
+    "endDate": "26.03.2020"
+  },
+  {
+    "id": "5e5e3d14071c57000146757d",
+    "name": "Музеи",
+    "images": [
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/636b4816-1a67-45e0-a854-c41aa92b40c3",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/2f3dff4e-d1c6-4902-a760-559869e4029a",
+        "description": null
+      }
+    ],
+    "contentCount": 2,
+    "startDate": "29.03.2020",
+    "endDate": "29.03.2020"
+  },
+  {
+    "id": "5e5e400b071c57000146757e",
+    "name": "культурный",
+    "images": [
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/ab20266b-fa0a-48f8-b217-561791de6435",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/031ccaf0-1c36-4013-ae8b-b244fad8c9e9",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/56d0dba6-fbe9-404d-8825-cc12a5db8d47",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/80f37a5e-498e-4eb5-94fc-518b9239ebcf",
+        "description": null
+      },
+      {
+        "url": "https://russpass.technolab.com.ru/v1/file/247f9d7a-f6b2-417b-986e-78b123b65bd8",
+        "description": null
+      }
+    ],
+    "contentCount": 5,
+    "startDate": "30.03.2020",
+    "endDate": "31.03.2020"
+  }
+]

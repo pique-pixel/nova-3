@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654899793430",
+    "firebase_url": "https://ru-russpass.firebaseio.com",
+    "project_id": "ru-russpass",
+    "storage_bucket": "ru-russpass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654899793430:android:f0ead67208ed8d72dc6f37",
+        "android_client_info": {
+          "package_name": "ru.russpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654899793430-0tob3dnoor0p8d62f4f6bu15kr55o453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tpQ2mU5NAfcbgBdcNITgT62iiUYXCCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654899793430-0tob3dnoor0p8d62f4f6bu15kr55o453.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

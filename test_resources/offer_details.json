@@ -1,0 +1,287 @@
+{
+  "id": "5de8f5c765a7c40001c2c452",
+  "name": {
+    "inOtherLang": [
+      {
+        "value": "Central Naval Museum",
+        "language": "en"
+      },
+      {
+        "value": "Museo Naval Central",
+        "language": "es"
+      }
+    ],
+    "value": "Центральный военно-морской музей"
+  },
+  "fullName": {
+    "inOtherLang": [
+      {
+        "value": "Central Naval Museum",
+        "language": "en"
+      },
+      {
+        "value": "Museo Naval Central",
+        "language": "es"
+      }
+    ],
+    "value": "Центральный военно-морской музей"
+  },
+  "type": "ACTION",
+  "place": {
+    "id": "5de8f52b65a7c40001c2c451",
+    "name": {
+      "inOtherLang": [
+        {
+          "value": "Central Naval Museum",
+          "language": "en"
+        },
+        {
+          "value": "Museo Naval Central",
+          "language": "es"
+        }
+      ],
+      "value": "Центральный военно-морской музей"
+    },
+    "fullName": {
+      "inOtherLang": [
+        {
+          "value": "Central Naval Museum",
+          "language": "en"
+        },
+        {
+          "value": "Museo Naval Central",
+          "language": "es"
+        }
+      ],
+      "value": "Центральный военно-морской музей"
+    },
+    "phones": [
+      ""
+    ],
+    "url": "http://navalmuseum.ru",
+    "location": {
+      "x": 59.930109,
+      "y": 30.293256,
+      "coordinates": [
+        59.930109,
+        30.293256
+      ],
+      "type": "Point"
+    },
+    "type": {
+      "id": "5de63604f4b2ad00015d0777",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "Parking",
+            "language": "en"
+          }
+        ],
+        "value": "Парковка"
+      },
+      "desc": null
+    },
+    "forSedentary": true,
+    "forVisually": false,
+    "forHearing": false,
+    "forMental": false,
+    "status": "WORKING",
+    "address": {
+      "inOtherLang": [
+        {
+          "value": "69А Bolshaya Morskaya St.",
+          "language": "en"
+        },
+        {
+          "value": "69А Bolshaya Morskaya St.",
+          "language": "es"
+        }
+      ],
+      "value": "Б. Морская ул., 69 А"
+    },
+    "photos": [
+      {
+        "url": "content/467283567.jpg",
+        "description": null
+      },
+      {
+        "url": "content/485753989.jpg",
+        "description": null
+      },
+      {
+        "url": "content/494989198.jpg",
+        "description": null
+      },
+      {
+        "url": "content/4765187729.jpg",
+        "description": null
+      }
+    ],
+    "headerPhoto": {
+      "url": "content/7559423369.jpg",
+      "description": "Some description"
+    },
+    "description": {
+      "inOtherLang": [],
+      "value": ""
+    }
+  },
+  "durationMin": 90,
+  "child": null,
+  "schedules": [
+    {
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "Working hours",
+            "language": "en"
+          },
+          {
+            "value": "Horas Laborales",
+            "language": "es"
+          }
+        ],
+        "value": "Режим работы"
+      },
+      "fromDate": [
+        2019,
+        12,
+        5
+      ],
+      "toDate": [
+        2020,
+        12,
+        31
+      ],
+      "details": [
+        {
+          "fromTime": [
+            10,
+            0
+          ],
+          "toTime": [
+            17,
+            15
+          ],
+          "dayOfWeeks": [
+            "WEDNESDAY",
+            "SUNDAY",
+            "FRIDAY",
+            "SATURDAY",
+            "THURSDAY"
+          ]
+        }
+      ],
+      "excludes": [
+        {
+          "date": "string",
+          "dayOfWeeks": [
+            "MONDAY"
+          ]
+        }
+      ],
+      "additionalInfos": [
+        {
+          "name": {
+            "inOtherLang": [
+              {
+                "value": "Working hours",
+                "language": "en"
+              },
+              {
+                "value": "Horas Laborales",
+                "language": "es"
+              }
+            ],
+            "value": "Режим работы"
+          }
+        }
+      ]
+    }
+  ],
+  "prices": [
+    {
+      "type": "ADULT",
+      "currency": "RUB",
+      "value": 250.0
+    },
+    {
+      "type": "ADULT",
+      "currency": "USD",
+      "value": 4.0
+    },
+    {
+      "type": "ADULT",
+      "currency": "EUR",
+      "value": 4.0
+    }
+  ],
+  "tags": [
+    {
+      "id": "5de63604f4b2ad00015d077a",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "must visit",
+            "language": "en"
+          },
+          {
+            "value": "must visit",
+            "language": "es"
+          }
+        ],
+        "value": "рекомендуем"
+      }
+    },
+    {
+      "id": "5de63604f4b2ad00015d078a",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "science",
+            "language": "en"
+          },
+          {
+            "value": "science",
+            "language": "es"
+          }
+        ],
+        "value": "наука"
+      }
+    },
+    {
+      "id": "5de63604f4b2ad00015d077e",
+      "name": {
+        "inOtherLang": [
+          {
+            "value": "history",
+            "language": "en"
+          },
+          {
+            "value": "history",
+            "language": "es"
+          }
+        ],
+        "value": "история"
+      }
+    }
+  ],
+  "priority": 0,
+  "countOfSell": 0,
+  "comments": [],
+  "published": true,
+  "description": {
+    "inOtherLang": [
+      {
+        "value": "The port city built by Peter I, which opens Russia to the cold waters of the Baltic Sea, preserves the artifacts of three centuries of sea conquests. \"Witness\" the glorious wins of the maritime fleet and the ingenious inventions of shipbuilders!\n\nPresent the RUSSPASS ATTRACTIONS card in the ticket office of the museum and visit Aurora Cruiser or the Central Naval Museum at choice. ",
+        "language": "en"
+      },
+      {
+        "value": "Ciudad portuaria construida por Pedro I, que abre a Rusia las aguas del Báltico. San Petersburgo conserva los artefactos de 3 siglos de conquistas navales. ¡Conviértase en un \"testigo\" de las gloriosas conquistas y los ingeniosos inventos navales!\n\nPresente la tarjeta RUSSPASS ATTRACTIONS en la taquilla del museo y visite el Aurora Cruiser o el Museo Naval Central a su elección.",
+        "language": "es"
+      }
+    ],
+    "value": "Вся жизнь Северной Столицы связана с кораблестроением и флотом. Построенный Петром I город-порт, открывающий России ворота в холодные воды Балтики, Санкт-Петербург бережно хранит артефакты трехвековой истории покорения морей. Станьте и вы «свидетелем» славных завоеваний морфлота и гениальных изобретений судостроителей!\n\nПри предъявлении карты RUSSPASS ВАШ ДОСУГ на входе в музей вам доступно посещение Крейсера \"Аврора\" или Центрального военно-морского музея на выбор. "
+  },
+  "itemId": null
+}

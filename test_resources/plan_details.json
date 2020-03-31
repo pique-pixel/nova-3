@@ -1,0 +1,663 @@
+{
+  "id": "5e5e3d14071c57000146757d",
+  "name": "Музеи",
+  "startDate": "29.03.2020",
+  "endDate": "29.03.2020",
+  "level": null,
+  "airlineTickets": [],
+  "railwayTickets": [],
+  "hotels": [],
+  "days": [
+    {
+      "date": "29.03.2020",
+      "activities": [
+        {
+          "order": 0,
+          "activity": {
+            "id": "5e561627826e00001944cfe6",
+            "type": "EVENT",
+            "activity": {
+              "item": {
+                "id": "5e561627826e00001944cfe6",
+                "title": "Музей космонавтики",
+                "description": "Восемь больших залов и 98 тыс. экспонатов — Музей космонавтики не оставит равнодушным никого из тех, кто хоть раз мечтательно смотрел на звезды. Вы узнаете, какой путь прошло человечество от запуска экспериментальных аппаратов до международного проекта на орбите. Увидите, как жили космонавты на станции «Мир» и побываете внутри орбитального дома. Сможете поуправлять межзвездным челноком. А завершить приключения лучше всего, попробовав на вкус «кольцо Сатурна» и настоящую еду героев космоса.",
+                "images": [
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/2f3dff4e-d1c6-4902-a760-559869e4029a",
+                    "avg": {
+                      "r": 49,
+                      "g": 88,
+                      "b": 139,
+                      "a": 102
+                    }
+                  },
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/406ce63e-5ff0-4cda-8535-773e0bc8fe84",
+                    "avg": {
+                      "r": 47,
+                      "g": 11,
+                      "b": 48,
+                      "a": 102
+                    }
+                  },
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/dadc9608-7932-43eb-a072-894ce06bbb75",
+                    "avg": {
+                      "r": 83,
+                      "g": 84,
+                      "b": 92,
+                      "a": 102
+                    }
+                  },
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/1e491978-ddb3-4837-b20b-acf8dcdcf6d5",
+                    "avg": {
+                      "r": 162,
+                      "g": 138,
+                      "b": 145,
+                      "a": 102
+                    }
+                  },
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/05e538b5-00e4-462b-a204-4ad2e48d91ff",
+                    "avg": {
+                      "r": 86,
+                      "g": 86,
+                      "b": 90,
+                      "a": 102
+                    }
+                  }
+                ],
+                "city": "5bbe8a8a9e7fcb000f78a92d",
+                "duration": "120",
+                "canBuy": false,
+                "about_booking": "В стоимость входит посещение основной экспозиции.\nБесплатный ход в музей для всех категорий посетителей в третье воскресенье каждого месяца в режиме самостоятельного осмотра экспозиции.",
+                "booking_link": "",
+                "min_age": "0+",
+                "tags_ids": [
+                  "5e56845a826e00001944d535",
+                  "5e4fa2c4d067450019abf83b",
+                  "5e4f9a49ea472d0019451169",
+                  "5e4fa07dd067450019abf816",
+                  "5e4e98f3358584001936db95"
+                ],
+                "small_schedule": [
+                  "2019-12-03T07:00:00.000Z",
+                  "2020-12-29T16:00:00.000Z"
+                ],
+                "places_ids": [
+                  "5e55a8e1826e00001944c962"
+                ],
+                "event_types_ids": [],
+                "ticket_price": "300",
+                "session_id": "",
+                "is_can_buy": false,
+                "schedule_description": "",
+                "purchase_method": "russpass",
+                "list_of_participants": "",
+                "link_source": "",
+                "rp_price_id": null
+              },
+              "places": [
+                {
+                  "id": "5e55a8e1826e00001944c962",
+                  "title": "Музей космонавтики",
+                  "address": "проспект Мира, 111",
+                  "coordinates": {
+                    "lng": 37.6398367,
+                    "lat": 55.8229932
+                  },
+                  "images": [
+                    {
+                      "image": "https://russpass.technolab.com.ru/v1/file/2f3dff4e-d1c6-4902-a760-559869e4029a",
+                      "avg": {
+                        "r": 49,
+                        "g": 88,
+                        "b": 139,
+                        "a": 102
+                      }
+                    },
+                    {
+                      "image": "https://russpass.technolab.com.ru/v1/file/406ce63e-5ff0-4cda-8535-773e0bc8fe84",
+                      "avg": {
+                        "r": 47,
+                        "g": 11,
+                        "b": 48,
+                        "a": 102
+                      }
+                    },
+                    {
+                      "image": "https://russpass.technolab.com.ru/v1/file/dadc9608-7932-43eb-a072-894ce06bbb75",
+                      "avg": {
+                        "r": 83,
+                        "g": 84,
+                        "b": 92,
+                        "a": 102
+                      }
+                    },
+                    {
+                      "image": "https://russpass.technolab.com.ru/v1/file/1e491978-ddb3-4837-b20b-acf8dcdcf6d5",
+                      "avg": {
+                        "r": 162,
+                        "g": 138,
+                        "b": 145,
+                        "a": 102
+                      }
+                    },
+                    {
+                      "image": "https://russpass.technolab.com.ru/v1/file/05e538b5-00e4-462b-a204-4ad2e48d91ff",
+                      "avg": {
+                        "r": 86,
+                        "g": 86,
+                        "b": 90,
+                        "a": 102
+                      }
+                    }
+                  ],
+                  "badge": "",
+                  "metro_ids": []
+                }
+              ],
+              "tags": [
+                {
+                  "id": "5e4f9a49ea472d0019451169",
+                  "title": "для детей",
+                  "images": [],
+                  "icon_pin_min": null,
+                  "icon_pin_max": null
+                },
+                {
+                  "id": "5e4fa07dd067450019abf816",
+                  "title": "СССР",
+                  "images": [],
+                  "icon_pin_min": null,
+                  "icon_pin_max": null
+                },
+                {
+                  "id": "5e4fa2c4d067450019abf83b",
+                  "title": "рекомендуем",
+                  "images": [],
+                  "icon_pin_min": null,
+                  "icon_pin_max": null
+                },
+                {
+                  "id": "5e56845a826e00001944d535",
+                  "title": "москва",
+                  "images": [],
+                  "icon_pin_min": null,
+                  "icon_pin_max": null
+                }
+              ],
+              "metro": [],
+              "event_types": []
+            }
+          }
+        },
+        {
+          "order": 1,
+          "activity": {
+            "id": "5e57d02ac1573d0019d803ac",
+            "type": "RESTAURANT",
+            "activity": {
+              "item": {
+                "id": "5e57d02ac1573d0019d803ac",
+                "title": "Ресторан «Ноев Ковчег»",
+                "description": "Ресторан «Ноев Ковчег» - один из маяков на гастрономической карте Москвы. Открытый 15 лет назад, он не только сохраняет традиции армянской кухни и постоянный круг гостей, но и меняется, соответствуя ритму жизни в мегаполисе. Эта непростая задача – сохранять традиции и жить современностью – достижима только при двух условиях. Это любовь и трудолюбие. Что, собственно, и роднит «Ноев Ковчег» с армянской культурой – древней и полной интересных открытий, красоты и мудрости.",
+                "address": "Малый Ивановский пер., д. 7-9, стр. 1",
+                "coordinates": {
+                  "lat": 55.754064179372854,
+                  "lng": 37.641248678573604
+                },
+                "images": [
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/636b4816-1a67-45e0-a854-c41aa92b40c3",
+                    "avg": {
+                      "r": 126,
+                      "g": 99,
+                      "b": 86,
+                      "a": 102
+                    }
+                  },
+                  {
+                    "image": "https://russpass.technolab.com.ru/v1/file/0237d734-5092-4e96-bc61-c325680815f7",
+                    "avg": {
+                      "r": 107,
+                      "g": 91,
+                      "b": 86,
+                      "a": 102
+                    }
+                  }
+                ],
+                "images360": [],
+                "bill": 2750,
+                "phone": "+7 (495) 917-07-17",
+                "site": "noevkovcheg.ru",
+                "sort": 11,
+                "google_address": "Малый Ивановский пер., Москва, Россия, 109028",
+                "tags_ids": [
+                  "5e568369826e00001944d52d",
+                  "5e56845a826e00001944d535"
+                ],
+                "metro_ids": [
+                  "5a8ae5b53b52300010b5a9af"
+                ],
+                "cuisines_ids": [
+                  "5e5524e9b333bd0019d189b8",
+                  "5e55216d826e00001944c532"
+                ],
+                "working_time": {
+                  "all": {
+                    "startTime": "12:00",
+                    "endTime": "00:00",
+                    "closed": null
+                  },
+                  "days": {
+                    "Thu": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    },
+                    "Tue": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    },
+                    "Wed": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    },
+                    "Sat": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    },
+                    "Fri": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    },
+                    "Mon": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    },
+                    "Sun": {
+                      "startTime": "12:00",
+                      "endTime": "00:00",
+                      "closed": false
+                    }
+                  },
+                  "description": ""
+                }
+              },
+              "tags": [
+                {
+                  "id": "5e568369826e00001944d52d",
+                  "title": "еда",
+                  "images": [],
+                  "icon_pin_min": null,
+                  "icon_pin_max": null
+                },
+                {
+                  "id": "5e56845a826e00001944d535",
+                  "title": "москва",
+                  "images": [],
+                  "icon_pin_min": null,
+                  "icon_pin_max": null
+                }
+              ],
+              "cuisines": [
+                {
+                  "id": "5e55216d826e00001944c532",
+                  "title": "Русская"
+                },
+                {
+                  "id": "5e5524e9b333bd0019d189b8",
+                  "title": "Европейская"
+                }
+              ],
+              "metro": [
+                {
+                  "id": "5a8ae5b53b52300010b5a9af",
+                  "title": "Китай-город",
+                  "line": {
+                    "title": "Калужско-Рижская",
+                    "number": "6",
+                    "color": {
+                      "r": 237,
+                      "g": 145,
+                      "b": 33,
+                      "a": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "5e57d02ac1573d0019d803ac",
+      "type": "RESTAURANT",
+      "activity": {
+        "item": {
+          "id": "5e57d02ac1573d0019d803ac",
+          "title": "Ресторан «Ноев Ковчег»",
+          "description": "Ресторан «Ноев Ковчег» - один из маяков на гастрономической карте Москвы. Открытый 15 лет назад, он не только сохраняет традиции армянской кухни и постоянный круг гостей, но и меняется, соответствуя ритму жизни в мегаполисе. Эта непростая задача – сохранять традиции и жить современностью – достижима только при двух условиях. Это любовь и трудолюбие. Что, собственно, и роднит «Ноев Ковчег» с армянской культурой – древней и полной интересных открытий, красоты и мудрости.",
+          "address": "Малый Ивановский пер., д. 7-9, стр. 1",
+          "coordinates": {
+            "lat": 55.754064179372854,
+            "lng": 37.641248678573604
+          },
+          "images": [
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/636b4816-1a67-45e0-a854-c41aa92b40c3",
+              "avg": {
+                "r": 126,
+                "g": 99,
+                "b": 86,
+                "a": 102
+              }
+            },
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/0237d734-5092-4e96-bc61-c325680815f7",
+              "avg": {
+                "r": 107,
+                "g": 91,
+                "b": 86,
+                "a": 102
+              }
+            }
+          ],
+          "images360": [],
+          "bill": 2750,
+          "phone": "+7 (495) 917-07-17",
+          "site": "noevkovcheg.ru",
+          "sort": 11,
+          "google_address": "Малый Ивановский пер., Москва, Россия, 109028",
+          "tags_ids": [
+            "5e568369826e00001944d52d",
+            "5e56845a826e00001944d535"
+          ],
+          "metro_ids": [
+            "5a8ae5b53b52300010b5a9af"
+          ],
+          "cuisines_ids": [
+            "5e5524e9b333bd0019d189b8",
+            "5e55216d826e00001944c532"
+          ],
+          "working_time": {
+            "all": {
+              "startTime": "12:00",
+              "endTime": "00:00",
+              "closed": null
+            },
+            "days": {
+              "Thu": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              },
+              "Tue": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              },
+              "Wed": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              },
+              "Sat": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              },
+              "Fri": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              },
+              "Mon": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              },
+              "Sun": {
+                "startTime": "12:00",
+                "endTime": "00:00",
+                "closed": false
+              }
+            },
+            "description": ""
+          }
+        },
+        "tags": [
+          {
+            "id": "5e568369826e00001944d52d",
+            "title": "еда",
+            "images": [],
+            "icon_pin_min": null,
+            "icon_pin_max": null
+          },
+          {
+            "id": "5e56845a826e00001944d535",
+            "title": "москва",
+            "images": [],
+            "icon_pin_min": null,
+            "icon_pin_max": null
+          }
+        ],
+        "cuisines": [
+          {
+            "id": "5e55216d826e00001944c532",
+            "title": "Русская"
+          },
+          {
+            "id": "5e5524e9b333bd0019d189b8",
+            "title": "Европейская"
+          }
+        ],
+        "metro": [
+          {
+            "id": "5a8ae5b53b52300010b5a9af",
+            "title": "Китай-город",
+            "line": {
+              "title": "Калужско-Рижская",
+              "number": "6",
+              "color": {
+                "r": 237,
+                "g": 145,
+                "b": 33,
+                "a": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "5e561627826e00001944cfe6",
+      "type": "EVENT",
+      "activity": {
+        "item": {
+          "id": "5e561627826e00001944cfe6",
+          "title": "Музей космонавтики",
+          "description": "Восемь больших залов и 98 тыс. экспонатов — Музей космонавтики не оставит равнодушным никого из тех, кто хоть раз мечтательно смотрел на звезды. Вы узнаете, какой путь прошло человечество от запуска экспериментальных аппаратов до международного проекта на орбите. Увидите, как жили космонавты на станции «Мир» и побываете внутри орбитального дома. Сможете поуправлять межзвездным челноком. А завершить приключения лучше всего, попробовав на вкус «кольцо Сатурна» и настоящую еду героев космоса.",
+          "images": [
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/2f3dff4e-d1c6-4902-a760-559869e4029a",
+              "avg": {
+                "r": 49,
+                "g": 88,
+                "b": 139,
+                "a": 102
+              }
+            },
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/406ce63e-5ff0-4cda-8535-773e0bc8fe84",
+              "avg": {
+                "r": 47,
+                "g": 11,
+                "b": 48,
+                "a": 102
+              }
+            },
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/dadc9608-7932-43eb-a072-894ce06bbb75",
+              "avg": {
+                "r": 83,
+                "g": 84,
+                "b": 92,
+                "a": 102
+              }
+            },
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/1e491978-ddb3-4837-b20b-acf8dcdcf6d5",
+              "avg": {
+                "r": 162,
+                "g": 138,
+                "b": 145,
+                "a": 102
+              }
+            },
+            {
+              "image": "https://russpass.technolab.com.ru/v1/file/05e538b5-00e4-462b-a204-4ad2e48d91ff",
+              "avg": {
+                "r": 86,
+                "g": 86,
+                "b": 90,
+                "a": 102
+              }
+            }
+          ],
+          "city": "5bbe8a8a9e7fcb000f78a92d",
+          "duration": "120",
+          "canBuy": false,
+          "about_booking": "В стоимость входит посещение основной экспозиции.\nБесплатный ход в музей для всех категорий посетителей в третье воскресенье каждого месяца в режиме самостоятельного осмотра экспозиции.",
+          "booking_link": "",
+          "min_age": "0+",
+          "tags_ids": [
+            "5e56845a826e00001944d535",
+            "5e4fa2c4d067450019abf83b",
+            "5e4f9a49ea472d0019451169",
+            "5e4fa07dd067450019abf816",
+            "5e4e98f3358584001936db95"
+          ],
+          "small_schedule": [
+            "2019-12-03T07:00:00.000Z",
+            "2020-12-29T16:00:00.000Z"
+          ],
+          "places_ids": [
+            "5e55a8e1826e00001944c962"
+          ],
+          "event_types_ids": [],
+          "ticket_price": "300",
+          "session_id": "",
+          "is_can_buy": false,
+          "schedule_description": "",
+          "purchase_method": "russpass",
+          "list_of_participants": "",
+          "link_source": "",
+          "rp_price_id": null
+        },
+        "places": [
+          {
+            "id": "5e55a8e1826e00001944c962",
+            "title": "Музей космонавтики",
+            "address": "проспект Мира, 111",
+            "coordinates": {
+              "lng": 37.6398367,
+              "lat": 55.8229932
+            },
+            "images": [
+              {
+                "image": "https://russpass.technolab.com.ru/v1/file/2f3dff4e-d1c6-4902-a760-559869e4029a",
+                "avg": {
+                  "r": 49,
+                  "g": 88,
+                  "b": 139,
+                  "a": 102
+                }
+              },
+              {
+                "image": "https://russpass.technolab.com.ru/v1/file/406ce63e-5ff0-4cda-8535-773e0bc8fe84",
+                "avg": {
+                  "r": 47,
+                  "g": 11,
+                  "b": 48,
+                  "a": 102
+                }
+              },
+              {
+                "image": "https://russpass.technolab.com.ru/v1/file/dadc9608-7932-43eb-a072-894ce06bbb75",
+                "avg": {
+                  "r": 83,
+                  "g": 84,
+                  "b": 92,
+                  "a": 102
+                }
+              },
+              {
+                "image": "https://russpass.technolab.com.ru/v1/file/1e491978-ddb3-4837-b20b-acf8dcdcf6d5",
+                "avg": {
+                  "r": 162,
+                  "g": 138,
+                  "b": 145,
+                  "a": 102
+                }
+              },
+              {
+                "image": "https://russpass.technolab.com.ru/v1/file/05e538b5-00e4-462b-a204-4ad2e48d91ff",
+                "avg": {
+                  "r": 86,
+                  "g": 86,
+                  "b": 90,
+                  "a": 102
+                }
+              }
+            ],
+            "badge": "",
+            "metro_ids": []
+          }
+        ],
+        "tags": [
+          {
+            "id": "5e4f9a49ea472d0019451169",
+            "title": "для детей",
+            "images": [],
+            "icon_pin_min": null,
+            "icon_pin_max": null
+          },
+          {
+            "id": "5e4fa07dd067450019abf816",
+            "title": "СССР",
+            "images": [],
+            "icon_pin_min": null,
+            "icon_pin_max": null
+          },
+          {
+            "id": "5e4fa2c4d067450019abf83b",
+            "title": "рекомендуем",
+            "images": [],
+            "icon_pin_min": null,
+            "icon_pin_max": null
+          },
+          {
+            "id": "5e56845a826e00001944d535",
+            "title": "москва",
+            "images": [],
+            "icon_pin_min": null,
+            "icon_pin_max": null
+          }
+        ],
+        "metro": [],
+        "event_types": []
+      }
+    }
+  ]
+}

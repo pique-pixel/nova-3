@@ -1,0 +1,8 @@
+stateDiagram
+    [*] --> InitialLoginState
+    InitialLoginState --> LoadingState : OnSubmit
+    LoadingState --> ErrorState
+    LoadingState --> SuccessState
+    ErrorState --> LoadingState : OnSubmit
+    SuccessState -->RouteRetryLoginState : OnRetryLoginButtonClick
+    RouteRetryLoginState --> [*]

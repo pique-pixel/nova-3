@@ -1,0 +1,13 @@
+stateDiagram
+    [*] --> InitialLoginState
+    InitialLoginState --> LoginFormState
+    InitialLoginState --> LockedState
+    LoginFormState --> LoadingState
+    LoginFormState --> RouteRecoveryPasswordState : OnRecoveryPasswordButtonClick
+    LoadingState --> LoginFormState : OnUnhandledException
+    LoadingState --> LockedState
+    LoadingState --> ErrorState
+    LoadingState --> SuccessState
+    LockedState --> [*]
+    SuccessState --> [*]
+    ErrorState --> [*]

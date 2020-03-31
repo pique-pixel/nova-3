@@ -1,0 +1,9 @@
+stateDiagram
+    [*] --> InitialAuthState
+    InitialAuthState --> RouteLoginState
+    InitialAuthState --> RouteLoginState : OnLoginButtonClick
+    InitialAuthState --> RouteRegistrationState : OnRegistrationButtonClick
+    InitialAuthState --> RouteFAQState : OnFAQButtonClick
+    RouteLoginState --> [*]
+    RouteRegistrationState --> [*]
+    RouteFAQState --> [*]

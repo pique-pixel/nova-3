@@ -1,0 +1,13 @@
+{
+  "title": "Привет мир App",
+  "@title": {
+    "description": "Это тайтл для App",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Привет",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

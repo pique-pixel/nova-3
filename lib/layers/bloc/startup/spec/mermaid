@@ -1,0 +1,9 @@
+stateDiagram
+    [*] --> InitialStartupState
+    InitialStartupState --> LoadingSession
+    LoadingSession --> RouteTipsState
+    LoadingSession --> RouteDashboardState
+    LoadingSession --> RouteWelcomeState
+    RouteTipsState --> [*]
+    RouteDashboardState --> [*]
+    RouteWelcomeState --> [*]
